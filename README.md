@@ -34,15 +34,45 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1. Start a New Project in Quartus:
+
+ • Open Quartus Prime and create a new project.
+ 
+ • Define the project name and directory location.
+
+2. Write the Verilog Code for the SR Flip-Flop:
+
+ • Use a case statement to describe the behavior of the SR flip-flop.
+
+3. Compile and Simulate:
+
+ • Compile the design in Quartus.
+ 
+ • Simulate the design using the simulation tool to verify the functionality against the truth table.
+ 
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![sr_flipflop_code](https://github.com/user-attachments/assets/d1101c5e-8c4c-494f-8078-3b6ca259185b)
+
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![sr_flipflop_rtl](https://github.com/user-attachments/assets/956638bb-a463-47ca-b193-9703ae134053)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![sr_flipflop_waveform](https://github.com/user-attachments/assets/018cc3d8-1fe4-46a3-b2b6-bede15290850)
+
+
 **RESULTS**
+
+• The Verilog code for the SR flip-flop works correctly as per the truth table.
+
+• The simulation results match the expected behavior of the SR flip-flop.
+
+• The timing diagram in Quartus will show the accurate transitions of the Q output based on the input conditions.
+
+• The functionality of the SR flip-flop (Set, Reset, Hold, Invalid) is validated using the simulation.
