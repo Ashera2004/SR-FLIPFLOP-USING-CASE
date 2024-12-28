@@ -53,7 +53,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-![sr_flipflop_code](https://github.com/user-attachments/assets/d1101c5e-8c4c-494f-8078-3b6ca259185b)
+![sr_flipflop_code](https://github.com/user-attachments/assets/5599b582-662d-4e78-8b83-052b74cbf715)
 
 
 
